@@ -1,0 +1,21 @@
+{
+  "name": "flexboxgrid",
+  "version": "0.0.1",
+  "description": "Grid based off of CSS3 flexbox specification",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/sellezi/flexboxgrid_build.git"
+  },
+  "keywords": [
+    "browser",
+    "flexbox",
+    "grid",
+    "css"
+  ],
+  "author": "@dam",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/sellezi/flexboxgrid_build/issues"
+  },
+  "homepage": "https://github.com/kristoferjoseph/flexboxgrid"
+}
